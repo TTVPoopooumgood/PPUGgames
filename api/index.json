@@ -1,0 +1,15 @@
+{
+  "name": "TTVgames",
+  "version": "2.9.0",
+  "private": false,
+  "description": "Play Unblocked Games Anytime!",
+
+  "Devs": {
+    "dev/Admin": "@TTVpoopooumgood",
+    "authorID": 178626439
+    "site_admin": True,
+    "dev": "@PoopooumgoodTTV"
+    "authorID": 173562061
+    "site_admin": false;
+  "Url": "https://ttvpoopooumgood.github.io/PPUGgames/"
+}
