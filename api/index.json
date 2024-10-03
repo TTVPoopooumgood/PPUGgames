@@ -1,15 +1,17 @@
 {
-  "name": "PPUGgames",
-  "version": "2.1.2",
-  "private": false,
-  "description": "Play Unblocked Games Anytime!",
-
-  "Devs": {
-    "dev/Admin": "@TTVpoopooumgood",
-    "authorID": 178626439
-    "site_admin": True,
-    "dev": "@PoopooumgoodTTV"
-    "authorID": 173562061
-    "site_admin": false;
-  "Url": "https://ttvpoopooumgood.github.io/PPUGgames/"
+  "id": "1169111190824308768",
+  "username": "~𝕋𝕋𝕍~",
+  "discriminator": "1337",
+  "avatar": "https://cdn.discordapp.com/avatars/1169111190824308768/ec8e03506b262ef0912bb38d6f3208f1.webp?size=80",
+  "verified": true,
+  "email": "nah",
+  "flags": nah,
+  "banner": "nah",
+  "accent_color": 16711680,
+  "premium_type": 1,
+  "public_flags": 64,
+  "avatar_decoration_data": {
+    "sku_id": "1144058844004233369",
+    "asset": "a_fed43ab12698df65902ba06727e20c0e"
+  }
 }
