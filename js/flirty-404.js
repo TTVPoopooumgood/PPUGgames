@@ -8,7 +8,7 @@ var transcript = new Array(
     "Hate to tell you this, but that page ain\'t here.",
     "Seriously. It\'s not.",
     "404 baby. 40-freakin\'-4.",
-    "If you Dont Go back Ow your Gay,",
+    "If you Dont Go back Now your Gay,",
     "folks. WE GOT A GAY ONE",
     "GAY",
     "GAY",
@@ -18,7 +18,8 @@ var transcript = new Array(
     "GAY",
     "GAY",
     "GAY",
-    "*sigh*"
+    "*sigh**
+    "You're Still Gay!"
 );
 
 var speed = 80;
